@@ -1,0 +1,203 @@
+p {
+    text-align: center;
+}
+html, body{
+	margin: 0;
+}
+
+html, body, .container-fluid{
+	background-color: snow;
+}
+
+button{
+	background-color: #aaaaaa;
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 20px;
+}
+button:hover {
+	background-color: #6c567b;
+    color: white;
+}
+
+#errorMessage{
+    visibility: hidden;
+    color: tomato;
+}
+
+
+label {
+    padding: 0;
+    color: #888;
+    text-align: right;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+
+::placeholder {
+    color: silver;
+}
+
+
+#locationText {
+    width: 200px;
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
+
+#currLocation {
+    color: midnightblue;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#currTemperature, #units {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#currDate {
+    font-size: 14px;
+}
+
+#currDescription {
+    font-size: 13px;
+}
+
+#submitButton {
+    margin-left: 10px;
+}
+
+/*Checkbox*/
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 30px;
+  height: 17px;
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 13px;
+  width: 13px;
+  left: 2px;
+  bottom: 2px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(13px);
+  -ms-transform: translateX(13px);
+  transform: translateX(13px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 17px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.navbar {
+  bottom: 0;
+  width: 100%;
+    text-align: center;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+
+
+/* Style the links inside the navigation bar */
+.navbar a {
+  display: inline-block;
+  color: #f2f2f2;
+    align-items: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+#icon{
+background-color: black;
+}
+
+
+.current {
+    text-align: center;
+    color: #777;
+    
+}
+.current-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.current-city p {
+    color: #191970;
+    font-size: 20px;
+    font-weight: 600;
+}
+.current-splitter {
+    padding: 0 10px;
+}
+.current-date p {
+    font-size: 14px;
+}
+.current-desc p {
+    font-size: 13px;
+}
+.current-icon {
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+#current-icon-val {
+    font-size: 50px;
+}
+.current-temp {
+    margin: 0;
+    font-size: 16px;
+}
+
+
+
+

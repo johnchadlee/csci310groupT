@@ -1,0 +1,22 @@
+References Tasks 1,2,3,6,7 from Product Backlog
+
+- 2 Factor Authentication
+- Fix Vacation Planning and Activity Planning UI
+- Sort Results by Favourites order
+- Adding favorites to SQL database
+- Fix backend
+- Back-end distsance radius
+- Set distance radius  UI
+- Connector between search history and myaccount page
+- Create and implement myAccount page
+- Adding search history to SQL database with foreign user_id key
+- Wrap up login/signup interface
+
+The first items on the sprint backlog were chosen from the Sprint review as well as items that needed to be worked on from the first sprint, for example wrapping up the login/signup interface. High priority items were also chosen such as the fixing the backend as future implementations are dependent on this so the original copy would be working and we could build on it. Tasks 3,6, and 7 seemed like a naturally extension to Sprint 1 and were chosen for Sprint 2. These tasks were then split up by priority in a way that could be easily divisible using the way it was divided in Sprint 1 which was effective.
+
+Participants:
+- Abhaya
+- Mary
+- Pearl
+- Benjamin
+- John

@@ -1,0 +1,23 @@
+CREATE DATABASE Project2;
+
+USE Project2;
+
+CREATE TABLE User (
+user_id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+username VARCHAR(150),
+password VARCHAR(150)
+);
+
+CREATE TABLE SearchHistory (
+hist_id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+search VARCHAR(150) NOT NULL,
+user_id INT,
+FOREIGN KEY (user_id) REFERENCES User(user_id)
+);
+
+CREATE TABLE Favorites (
+fav_id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+city VARCHAR(150) NOT NULL,
+user_id INT,
+FOREIGN KEY (user_id) REFERENCES User(user_id)
+);

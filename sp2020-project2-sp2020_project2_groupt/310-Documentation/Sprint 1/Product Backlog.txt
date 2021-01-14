@@ -1,0 +1,5 @@
+Product backlog includes:
+ - Task 1: The application must be secure and protect confidentiality of users’ data.
+ - Task 2: Maintain users’ information beyond just a single session.
+ - Task 4: User interfaces must look modern and be attractive.
+(from the Requested Features for Project 2 Document)

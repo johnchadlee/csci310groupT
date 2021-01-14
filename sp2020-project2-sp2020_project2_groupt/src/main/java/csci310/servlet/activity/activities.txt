@@ -1,0 +1,18 @@
+hot:
+surfing
+jet skiing
+beach volleyball
+swimming
+sunbathing
+temperate:
+soccer
+football
+tennis
+badminton
+hiking
+cold:
+hockey
+skiing
+snowboarding
+tubing
+build a snowman

@@ -1,0 +1,4 @@
+Product Backlog Features:
+- Task 5: Allow for pagination of results returned by both searches.
+- Task 6: Allow cities returned in searches to be ranked by likes.
+- Acceptance tests for all tasks

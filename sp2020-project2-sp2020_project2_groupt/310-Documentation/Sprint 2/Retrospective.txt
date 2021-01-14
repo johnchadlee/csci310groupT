@@ -1,0 +1,20 @@
+Meeting Participants:
+Mary Abgarian
+Abhaya Krishnan-Jha
+John Lee
+Pearl Piyawiroj
+Benjamin Sexton
+
+What went well 
+- More communication throughout the process
+- Meetings were scheduled and planned well, we were punctual
+
+Aspects that need to be changed
+- We should set an internal deadline before the 10pm Thursday commit as well as have an additional meeting before then to make sure it runs because this time there were merge conflicts that caused the code to not compile
+- Tasks should be broken down more comprehensively, including dependencies and tests to meet all requirements, especially because in this sprint we had many tasks that ovelapped and depended on each other, but since they were assigned to different people, each had to do extra overlapping code
+- Run cobertura tests coverages and for first scrum focus on reviewing and looking over tests to make sure it meets requirements
+- Meet with CPs if there are problems and team isn't available
+
+Things to add to backlog as a result of feedback
+- Fixing UI to make it obvious (e.g. checkbox funcitonality that wasn't apparent)
+- Acceptance tests for all features

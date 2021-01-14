@@ -1,0 +1,334 @@
+html, body, .row, .col {
+    margin: 0;
+    padding: 0;
+/*     background-color: snow;
+ */    
+}
+.content-container {
+    padding: 10px;
+    color: #333333;
+    font-family: Helvetica Neue, sans-serif;
+}
+.page-title {
+    margin: 25px 0;
+}
+.page-title h1 {
+    color: black;
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: -0.5px;
+}
+.sections {
+    padding: 20px 10px;
+}
+.list-title {
+    margin-bottom: 20px;
+}
+.list-title p {
+    margin: 0;
+    padding: 0 10px;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
+.list-group {
+    max-height: 450px;
+    overflow-y: auto;
+    background: transparent;
+}
+.list-group-no-items {
+    /*    display: hidden;*/
+    padding: 0px 10px;
+    color: #888;
+    font-size: 12px;
+}
+.list-group-item {
+    background: transparent;
+    padding: 7px 0px;
+    border: 0px;
+    /*    border-bottom: 1px solid #eee;*/
+}
+.list-group-item:hover {
+    border-radius: 5px;
+    background-color: rgba(128, 128, 128, 0.2);
+}
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
+    border-radius: 5px;
+    background-color: lightgray;
+    color: black;
+}
+.list-item-city p {
+    margin: 0;
+    padding: 0 10px;
+    color: #555;
+    font-size: 14px;
+    font-weight: 500;
+}
+.list-item-country p {
+    margin: 0;
+    padding: 0 10px;
+    color: #888888;
+    font-size: 12px;
+}
+.active > .list-item-city > p {
+    color:black;
+}
+.active > .list-item-country > p {
+    color: black;
+}
+.list-buttons {
+    margin-top: 25px;
+    padding: 0 10px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.remove-fav-button {
+    background-color: #aaaaaa;
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 20px;
+}
+.remove-fav-button:hover {
+    background-color: lightgray;
+    color: white;
+}
+.degree-text {
+    padding: 0;
+    color: #888;
+    text-align: right;
+    font-size: 13px;
+    font-weight: 500;
+}
+.current {
+    text-align: center;
+    color: #777;
+}
+.current-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.current-city p {
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.current-splitter {
+    padding: 0 10px;
+}
+.current-date p {
+    font-size: 14px;
+}
+.current-desc p {
+    font-size: 13px;
+}
+.current-icon {
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+#current-icon-val {
+    font-size: 50px;
+}
+.current-temp {
+    margin: 0;
+    font-size: 16px;
+}
+.forecast {
+    padding: 20px 10px;
+    border-top: solid lightgray;
+    border-bottom: solid lightgray;
+    border-width: 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    color: #777;
+}
+.forecast-col {
+    padding: 0 20px;
+}
+.forecast-date {
+    margin-bottom: 5px;
+}
+.forecast-date p {
+    margin: 0;
+    font-size: 13px;
+    font-weight: 600;
+}
+.forecast-icon {
+    margin-bottom: 10px;
+}
+.forecast-high p {
+    margin: 0;
+    font-size: 11px;
+}
+.forecast-low p {
+    margin: 0;
+    font-size: 11px;
+}
+.historic {
+    padding: 20px 0;
+}
+#chLine {
+
+}
+.card, card-body {
+    background: transparent;
+    border: 0px;
+}
+#photo-section {
+    padding-bottom: 200px;
+    display: flex;
+    align-items: center;
+}
+#photo-section img {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px 0 rgba(25, 25, 112, 0.5);
+}
+#dialog-confirm {
+    display: none;
+    /*    display: flex;*/
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 150px;
+    position: absolute;
+    top:0; bottom: 0; left: 0; right: 0;
+    margin: auto;
+    background-color: #fff;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.20);
+}
+#dialog-confirm-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    color: #777;
+    font-family: "Helvetica Neue", san-serif;
+    font-size: 15px;
+}
+#dialog-confirm-box-row-1 {
+
+}
+#dialog-confirm-box-row-2 {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.dialog-confirm-buttons {
+    margin: 0 20px;
+    width: 80px;
+    height: 30px;
+    background: #bbb;
+    color: #fff;
+    border-radius: 20px;
+}
+.dialog-confirm-buttons:hover {
+    background-color: lightgray;
+}
+/* 
+.navbar {
+	bottom: 0;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+.navbar a {
+    display: block;
+    color: #f2f2f2;
+    align-items: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+ */
+
+/* Pure CSS3 on/off switch with animated transition implementation borrowed from https://proto.io/freebies/onoff */
+.onoffswitch {
+    margin-left: 30px;
+    position: relative; width: 55px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    display: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border-radius: 20px;
+}
+.onoffswitch-inner {
+    display: block; width: 200%; margin-left: -100%;
+    transition: margin 0.3s ease-in 0s;
+}
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+    display: block; float: left; width: 50%; height: 22px; padding: 0; line-height: 20px;
+    font-size: 12px; color: white; font-weight: bold;
+    box-sizing: border-box;
+}
+.onoffswitch-inner:before {
+    content: "\00b0 F";
+    padding-left: 10px;
+background-color: lightgray; color: black;
+}
+.onoffswitch-inner:after {
+    content: "\00b0 C";
+    padding-right: 10px;
+	background-color: lightgray; color: black;
+    text-align: right;
+}
+.onoffswitch-switch {
+    display: block; width: 30px; height: 30px; margin: -4px;
+    background: #FFFFFF;
+    position: absolute; top: 0; bottom: 0;
+    right: 31px;
+    border: 1px solid #999999; border-radius: 20px;
+    transition: all 0.3s ease-in 0s;
+    box-shadow: 0 8px 16px 0 rgba(25, 25, 112, 0.5);
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+    margin-left: 0;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+    right: 0px;
+}
+
+
+/* weather icons from https://erikflowers.github.io/weather-icons/ */
+.wi {
+    line-height: 1.4;
+    font-size: 30px;
+}
+/*
+.owm-01d:before {content: "\f00d";}
+.owm-02d:before {content: "\f002";}
+.owm-03d:before {content: "\f041";}
+.owm-04d:before {content: "\f013";}
+.owm-09d:before {content: "\f01a";}
+.owm-10d:before {content: "\f008";}
+.owm-11d:before {content: "\f01e";}
+.owm-13d:before {content: "\f01b";}
+.owm-50d:before {content: "\f003";}
+.owm-01n:before {content: "\f02e";}
+.owm-02n:before {content: "\f086";}
+.owm-03n:before {content: "\f041";}
+.owm-04n:before {content: "\f013";}
+.owm-09n:before {content: "\f01a";}
+.owm-10n:before {content: "\f028";}
+.owm-11n:before {content: "\f01e";}
+.owm-13n:before {content: "\f01b";}
+.owm-50n:before {content: "\f04a";}
+*/

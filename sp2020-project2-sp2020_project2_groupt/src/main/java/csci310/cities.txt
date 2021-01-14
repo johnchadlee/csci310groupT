@@ -1,0 +1,9536 @@
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,0
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,0
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,4
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,4
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,4
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,3
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0
+Tokyo,Japan,0
+Delhi,India,0
+Shanghai,China,0
+Sao Paulo,Brazil,0
+Mumbai,India,0
+Mexico City,Mexico,0
+Beijing,China,0
+Osaka,Japan,0
+Cairo,Egypt,0
+New York,United States,0
+Dhaka,Bangladesh,0
+Karachi,Pakistan,0
+Buenos Aires,Argentina,0
+Kolkata,India,0
+Istanbul,Turkey,0
+Chongqing,China,0
+Lagos,Nigeria,0
+Manila,Philippines,0
+Rio de Janeiro,Brazil,0
+Guangzhou,China,0
+Los Angeles,United States,0
+Moscow,Russia,0
+Kinshasa,Democratic Republic of the Congo,0
+Tianjin,China,0
+Paris,France,1
+Shenzhen,China,0
+Jakarta,Indonesia,0
+London,United Kingdom,0
+Bangalore,India,0
+Lima,Peru,0
+Chennai,India,0
+Seoul,South Korea,2
+Bogotá,Colombia,0
+Nagoya,Japan,0
+Johannesburg,South Africa,0
+Bangkok,Thailand,0
+Hyderabad,India,0
+Chicago,United States,0
+Lahore,Pakistan,0
+Tehran,Iran,0
+Wuhan,China,0
+Chengdu,China,0
+Dongguan,China,0
+Nanjing,China,0
+Ahmadabad,India,0
+Hong Kong,Hong Kong,0
+Ho Chi Minh City,Vietnam,0
+Foshan,Foshan,0
+Kuala Lumpur,Malaysia,0
+Baghdad,Iraq,0
+Santiago,Chile,0
+Hangzhou,China,0
+Riyadh,Saudi Arabia,0
+Shenyang,China,0
+Madrid,Spain,0
+Xi'an,China,0
+Toronto,Canada,0
+Miami,United States,0
+Pune ,India,0
+Belo Horizonte,Brazil,0
+Dallas,United States,0
+Surat,India,0
+Houston,United States,0
+Singapore,Singapore,0
+Philadelphia,United States,0
+Kitakyushu,Japan,0
+Luanda,Angola,0
+Suzhou,China,0
+Haerbin,China,0
+Barcelona,Spain,0
+Atlanta,United States,0
+Khartoum,Sudan,0
+Dar es Salaam,Tanzania,0
+Saint Petersburg,Russia,0
+Abidjan,Cote d'Ivoire,0
+Guadalajara,Mexico,0
+Yangon,Myanmar,0
+Alexandria,Egypt,0
+Ankara,Turkey,0
+Kabul,Afghanistan,0
+Qingdao,China,0
+Chittagong,Bangladesh,0
+Monterrey,Mexico,0
+Sydney,Australia,0
+Dalian,China,0
+Xiamen,China,0
+Zhengzhou,China,0
+Boston,United States,0
+Melbourne,Australia,0
+Brasília,Brazil,0
+Jiddah,Saudi Arabia,0
+Phoenix,United States,0
+Ji'nan,China,0
+Montréal,Canada,0
+Shantou,China,0
+Nairobi,Kenya,0
+Medellín,Colombia,0
+Fortaleza,Brazil,0
+Kunming,China,0
+Changchun,China,0
+Changsha,China,0
+Recife,Brazil,0
+Rome,Italy,0
+Zhongshan,China,0
+Cape Town,South Africa,0
+Detroit,United States,0
+Hanoi,Vietnam,0
+Tel Aviv,Israel,0
+Porto Alegre,Brazil,0
+Kano,Nigeria,0
+Salvador,Brazil,0
+Faisalabad,Pakistan,0
+Berlin,Germany,0
+Aleppo,Syria,0
+Dakar,Senegal,0
+Casablanca,Morroco,0
+Urumqi,China,0
+Taiyuan,China,0
+Curitiba,Brazil,0
+Jaipur,India,0
+Shizuoka,Japan,0
+Hefei,China,0
+San Francisco,United States,0
+Fuzhou,China,0
+Shijiazhuang,China,0
+Seattle,United States,0
+Addis Ababa,Ethiopia,0
+Nanning,China,0
+Lucknow,India,0
+Busan,South Korea,0
+Wenzhou,China,0
+Ibadan,Nigeria,0
+Ningbo,China,0
+San Diego,United States,0
+Milan,Italy,0
+Yaounde,Cameroon,0
+Athens,Greece,0
+Wuxi,China,0
+Campinas,Brazil,0
+Izmir,Turkey,0
+Kanpur,India,0
+Mashhad,Iran,0
+Puebla,Mexico,0
+Sana'a,Yemen,0
+Santo Domingo,Domican Republic,0
+Douala,Cameroon,0
+Kiev,Ukraine,0
+Guatemala City,Guatemala,0
+Caracas,Venezuela,0

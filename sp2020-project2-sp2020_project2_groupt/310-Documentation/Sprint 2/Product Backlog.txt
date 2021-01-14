@@ -1,0 +1,8 @@
+Product backlog includes:
+ 1. The   application   must   be   secure   and   protect   confidentiality   of   users’   data. 
+ 2. Maintain   users’   information   beyond   just   a   single   session 
+ 3. View   results   of   prior   searches   via   search   history. 
+ 4. User   interfaces   must   look   modern   and   be   attractive. 
+ 5. Allow   for   pagination   of   results   returned   by   both   searches. 
+ 6. Allow   cities   returned   in   searches   to   be   ranked   by   likes. 
+ 7. Set   the   distance   radius   of   both   searche

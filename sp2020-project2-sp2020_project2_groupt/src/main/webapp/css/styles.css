@@ -1,0 +1,249 @@
+@font-face {
+  font-family: "Broadcast_Matter";
+  src: url("/fonts/Broadcast_Matter.ttf"); 
+}
+
+h1{
+	
+	font-family: 'Broadcast_Matter'!important;
+	font-size: 100!important;
+}
+
+.fav {
+    color: #212529;
+    background-color: transparent!important;
+    border-color: transparent!important;
+}
+.fav:active{
+	 background-color: lightgray;
+    border-color: lightgray;
+}
+
+html, body {
+	margin: 0!important;
+	padding: 0;
+	position: relative;
+	overflow-x: hidden !important;
+	background-color: #f8f8ff!important;
+}
+
+span, img {
+	display: block;
+	position: relative;
+}
+
+#temp-range {
+	width: 32%;
+}
+
+.title {
+	margin-top: 0.5%;
+	position: relative;
+	text-align: center;
+}
+
+img {
+	font-size: 12px !important;
+	vertical-align: bottom !important;
+	margin: 0 auto;
+}
+
+.nav {
+	padding-bottom: 0 !important;
+	background-color: white!important;
+}
+
+.navbar-brand a{
+	
+	margin:0!important;
+}
+
+.fa {
+  font-size: 20px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.fa:hover {
+  color: darkblue;
+}
+/* 
+.current-city p {
+    color: black;
+    font-size: 20px;
+    text-decoration: bold;
+}
+
+.current-date p {
+    font-size: 14px;
+}
+.current-desc p {
+    font-size: 13px;
+}
+.current-temp {
+    margin: 0;
+    font-size: 16px;
+} */
+::placeholder {
+	font-size: 12px;
+	
+}
+
+#reg, #log{
+	
+		color: black;
+		font-family: 'Broadcast_Matter'!important;
+		font-size: 200%;
+		text-decoration: none;
+	
+}
+
+input, select, table, .paginate_button{
+			background-color: #f8f8ff!important;
+	
+}
+.links{
+	font-family: 'Broadcast_Matter'!important;
+	font-size: 135%;
+}
+
+.table {
+	font-size: 90%;
+}
+
+#mainsearch {
+	width: 100%;
+	overflow: auto;
+}
+
+#location{
+	font-family: 'Broadcast_Matter'!important;
+	font-size: 220%;
+	
+}
+.page-title{
+	margin-bottom: 0!important;
+}
+
+
+#homepage-search {
+	margin-top: 15%;
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 1%;
+}
+
+#controls {
+	width: 40%;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.weather-display {
+
+	overflow: auto;
+	width: 22%;
+	margin: 3% 39% 1% 39%;
+	text-align: center;
+	border-radius: 0.2em;
+}
+
+.weather-icon {
+	position: relative;
+	left: 0;
+}
+
+#date {
+	font-size: 90%;
+}
+
+#weather-desc {
+	font-family: 'Broadcast_Matter';
+	font-size: 200%;
+	
+	margin-top: 0 !important;
+}
+
+.onoffswitch {
+	position: relative;
+	width: 55px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	display: inline-block;
+}
+
+.onoffswitch-checkbox {
+	display: none;
+}
+
+.onoffswitch-label {
+	display: block;
+	overflow: hidden;
+	cursor: pointer;
+	border-radius: 20px;
+}
+
+.onoffswitch-inner {
+	display: block;
+	width: 200%;
+	margin-left: -100%;
+	transition: margin 0.3s ease-in 0s;
+}
+
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+	display: block;
+	float: left;
+	width: 50%;
+	height: 22px;
+	padding: 0;
+	line-height: 20px;
+	font-size: 12px;
+	color: black;
+	font-weight: bold;
+	box-sizing: border-box;
+}
+
+.onoffswitch-inner:before {
+	content: "\00b0 F";
+	padding-left: 10px;
+	background-color: lightgray;
+	color: black;
+}
+
+.onoffswitch-inner:after {
+	content: "\00b0 C";
+	padding-right: 10px;
+	background-color: lightgray;
+	color: black;
+	text-align: right;
+}
+
+.onoffswitch-switch {
+	display: block;
+	width: 30px;
+	height: 30px;
+	margin: -4px;
+	background: #FFFFFF;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 31px;
+	border: 1px solid #999999;
+	border-radius: 20px;
+	transition: all 0.3s ease-in 0s;
+	box-shadow: 0 8px 16px 0 rgba(25, 25, 112, 0.5);
+}
+
+.onoffswitch-checkbox:checked+.onoffswitch-label .onoffswitch-inner {
+	margin-left: 0;
+}
+
+.onoffswitch-checkbox:checked+.onoffswitch-label .onoffswitch-switch {
+	right: 0px;
+}

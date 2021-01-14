@@ -1,0 +1,50 @@
+Meeting Participants:
+Mary Abgarian
+Abhaya Krishnan-Jha
+John Lee
+Pearl Piyawiroj
+Benjamin Sexton
+
+Process Aspects to Be Changed: 
+
+Do Code Review
+We didn’t realize we needed to do a code review last sprint, so we are going to integrate this practice into this sprint period. We realize that this practice will be very helpful in making sure that the contribution is of high quality and understandable by everyone else in the team. Each team member must follow the steps of code review outlined in Project 2 Manual.
+
+Push Commits Faster
+Less frequent pushing of code resulted in later diagnoses of Travis build fails. Solution is to push commits more often.
+Get Started Early
+Even though daily scrums forced us to try to get something done each day, getting started early would help us divide our work more evenly and be more ready for sprint review.
+
+More Communication
+Communicating more with team members can help resolve issues faster. If we are stuck on something other team members can help us move forward faster.
+Addressing Blockers During Scrum
+Going off of the previous point, we should discuss what blockers are preventing us from moving forward, and we should arrange team members to help unblock them.
+
+Pair Programming
+The previous two bullet points also can be further followed by the practice of pair programming. A team member who is not comfortable with working on a certain feature can get help by working with another person who is more familiar with the task. 
+
+Setting Up Notification System for Meetings
+Since time zones are a bit different for some members of the team, it is important to stick to a scheduled time. Although meeting up with everyone will likely always be a bit of a challenge, a notification system via zoom and google calendar will be employed 30 mins before each meeting, so that people get ready for the meeting, and so that there are less frustrations in waiting for one another.
+
+Adding Priorities to Sprint Backlog
+Adding and sorting by priorities will make sure we start most essential tasks first.
+
+Follow Proper Gitflow
+Due to unfamiliarity with this process, gitflow was not properly implemented during the previous sprint, however as we are required to properly maintain and use the master, develop, and feature branches, we will do our best to stick to the guidelines outlined in: https://nvie.com/posts/a-successful-git-branching-model/
+	
+
+Tasks to be added to the product backlog as a result of review feedback:
+
+Changes to the Vacation Planning and Activity Planning UI: make everything more centered
+Fully implement security measures: conclude implementation of 2FA
+
+
+Response to other feedback given in report and demo:
+Make sure continuous integration is implemented: project is rebuilt and tested with every commit using Travic-Cl.
+
+What went well:
+Good division of tasks
+Realistic goals per sprint
+Keeping up with updating Asana
+Test driven development was implemented correctly
+

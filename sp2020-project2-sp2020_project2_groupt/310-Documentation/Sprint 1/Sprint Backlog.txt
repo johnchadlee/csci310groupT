@@ -1,0 +1,14 @@
+1)Password hashing
+2)Set up Google Cloud Database
+3)Create user SQL interface
+4)Check password SQL interface (and check for injection)
+5)Two-factor authentication
+6)UI - bootstrap
+7)UI - color palette
+8)UI - animations
+9)UI - responsive/gracefully resize
+10)UI - login page
+11)UI - sign up page
+12)UI adjustments to main pages to add sign up/login ability
+
+The product backlog listed task 1,2,4. The team decided on the 12 items above. 1) Password hashing is needed for the user security is therefore required. 2) Google cloud database will be needed for storing user information via cloud. 3) Create user SQL interface will store user passwords after hashing is done. 4) Check password SQL interface (and check for injection) will be needed to prevent injection. 5) Two factor authentication will be used during user sign up. 6) UI - Bootstrap will be used as a template to improve the visual appeal of the current project interface. 7) UI - color palette and 8) - animation will both be implemented to make the user interface more attractive. 9) UI - responsive/gracefully resize will be implemented to allow the web application to work on different devices. 10) UI - login and 11) UI - sign up page will be added to allow login and sign up functions. Lastly 12) UI adjustments to main pages to add signup/login ability will be added to the navigation bar in the web application.

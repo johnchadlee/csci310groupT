@@ -1,0 +1,23 @@
+Sprint Backlog:
+- Main Search page implementation
+- Implement ranking by likes
+- Implement pagination of results
+- Acceptance tests for the following features:
+-> Maintaining user info beyond session
+-> Cities ranked by likes
+-> Pagination of results
+-> 2FA
+-> Search history
+-> Login/signup
+-> Set distance radius
+
+Members present (all):
+- John Lee
+- Mary Abgarian
+- Pearl Piyawiroj
+- Abhaya Krishnan-Jha
+- Benjamin Sexton
+
+Description:
+The first feature, involving the main search page, is a remnant of sprint 1 and wrapping up problematic or unfinished work. The next two implementation tasks refer to Tasks 5 and 6 on the product backlog, which have not been started and must be fully implemented and tested by the end of this sprint.
+The rest of the tasks in the sprint backlog are acceptance tests, due to the fact that a) we had virtually no acceptance tests in our previous demo and b) our test coverage is low. Although the JUnit tests are thorough, the system is missing large scale feature tests. Many of the features listed in the tests are already implemented, and simply must have acceptance tests developed for them.
